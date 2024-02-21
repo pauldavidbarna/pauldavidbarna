@@ -1308,3 +1308,30 @@ input[type="text"] {
   cursor: pointer;
   transform: scale(1.1);
 }
+
+iframe {
+  border-radius: 12px !important; 
+}
+
+.contact-icon {
+  font-size: 26px;
+  color: #FFFFFF;
+}
+
+.icon-contact-wrapper {
+  background: #577094;
+  width: fit-content;
+  padding: 16px;
+  border-radius: 50px;
+}
+
+.contact-details-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-details-text {
+  color: #000;
+  padding: 12px;
+}
