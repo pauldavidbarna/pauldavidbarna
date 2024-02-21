@@ -1290,4 +1290,21 @@ input[type="text"] {
   opacity: 0;
 }
 
-/*# sourceMappingURL=style.css.map */
+.skills-icons-custom {
+  max-width: 100px !important; 
+  margin: 10px !important; 
+  border-radius: 12px !important;
+}
+
+.custom-work-image {
+  transition: transform 0.3s ease;
+  height: 100% !important;
+  width: 100% !important;
+  padding: 4px !important;
+  border-radius: 12px !important;
+}
+
+.custom-work-image:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
