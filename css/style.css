@@ -1314,24 +1314,24 @@ iframe {
 }
 
 .contact-icon {
-  font-size: 26px;
-  color: #FFFFFF;
+  font-size: 26px !important;
+  color: #FFFFFF !important;
 }
 
 .icon-contact-wrapper {
-  background: #577094;
-  width: fit-content;
-  padding: 16px;
-  border-radius: 50px;
+  background: #577094 !important;
+  width: fit-content !important;
+  padding: 16px !important;
+  border-radius: 50px !important;
 }
 
 .contact-details-wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
 }
 
 .contact-details-text {
-  color: #000;
-  padding: 12px;
+  color: #000 !important;
+  padding: 12px !important; 
 }
