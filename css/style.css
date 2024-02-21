@@ -1335,3 +1335,10 @@ iframe {
   color: #000 !important;
   padding: 12px !important; 
 }
+
+@media only screen and (max-width: 600px) {
+  iframe {
+    width: 350px;
+    text-align: center;
+  }
+}
