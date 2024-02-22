@@ -1336,6 +1336,10 @@ iframe {
   padding: 12px !important; 
 }
 
+.custom-text-contact-details {
+  padding-left: 36px  !important;
+}
+
 @media only screen and (max-width: 600px) {
   iframe {
     width: 350px;
