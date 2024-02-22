@@ -232,7 +232,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-features .feature-left {
   margin-bottom: 40px;
-  float: center;
+  float: center !important;
 }
 @media screen and (max-width: 992px) {
   #fh5co-features .feature-left {
@@ -1327,7 +1327,7 @@ iframe {
 
 .contact-details-wrapper {
   display: flex !important;
-  justify-content: center !important;
+  justify-content: start !important;
   align-items: center !important;
 }
 
